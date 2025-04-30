@@ -1,1 +1,1 @@
-# Movie-App-CLone
+# Movie-App-Clone-ui
